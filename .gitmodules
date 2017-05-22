@@ -1,0 +1,6 @@
+[submodule "oriental-core"]
+	path = oriental-core
+	url = https://github.com/MarcinMichalik/oriental-core
+[submodule "oriental-frames"]
+	path = oriental-frames
+	url = https://github.com/MarcinMichalik/oriental-frames
